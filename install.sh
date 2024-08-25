@@ -13,7 +13,7 @@ db_repo="https://github.com/wiedehopf/tar1090-db"
 
 # optional command line options for this install script
 # $1: data source directory
-# $2: web path, default is "tar1090", use "webroot" to place the install at /
+$2=webroot
 # $3: specify install path
 # $4: specify git path as source instead of pulling from git
 
